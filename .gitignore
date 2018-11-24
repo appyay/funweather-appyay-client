@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# production
+build
+
+# misc
+.DS_Store
+
+# this contains secrets, don't store in source control
+.env
+
+npm-debug.log
+yarn-error.log
+yarn.lock
+.yarnclean
+.vscode
