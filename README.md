@@ -1,6 +1,6 @@
 # Funweather Appyay Client
 
-A lightweight Appyay client template for a mobile app landing page.
+A lightweight Appyay client template for a mobile app landing page. Template design by Elina Chanieva.
 
 ## Technologies used
 * HTML
@@ -9,7 +9,7 @@ A lightweight Appyay client template for a mobile app landing page.
 * Bootstrap
 * Handlebars
 
-##Overview
+## Overview
 This app demonstrates how to retrieve entries from the Appyay Content Delivery API. To use it, you should:
 * Have an Appyay account.
 * Create an Appyay Project using the "Fun Weather" template. 
