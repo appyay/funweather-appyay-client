@@ -3,23 +3,23 @@
         <div class="main_features p-top-100">
             <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
                 <div class="head_title text-center">
-                    <h2>Perfect Features</h2>
-                    <h5>Only necessary</h5>
+                    <h2>Features</h2>
+                    <h5>Taking it to the next level</h5>
                 </div>
             </div>
-            {{#entries}}
+            {{#items}}
             <div class="col-md-4">
                 <div class="features_item sm-m-top-30">
                     <div class="f_item_icon">
-                        <i class="icon icon-{{ icon }}"></i>
+                        <i class="icon icon-{{ fields.icon }}"></i>
                     </div>
                     <div class="f_item_text">
-                        <h3>{{ title }}</h3>
-                        <p>{{ description }}</p>
+                        <h3>{{ fields.title }}</h3>
+                        <p>{{ fields.description }}</p>
                     </div>
                 </div>
             </div>
-            {{/entries}}
+            {{/items}}
         </div>
     </div>
 </div>

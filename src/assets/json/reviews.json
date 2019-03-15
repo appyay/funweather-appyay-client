@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "quote": "What art offers is space - a certain breathing room for the spirit.",
+            "reviewerName": "John Updike"
+        },
+        {
+            "quote": "We do not see nature with our eyes, but with our understandings and our hearts.",
+            "reviewerName": "William Hazlitt"
+        },
+        {
+            "quote": "The only courage that matters is the kind that gets you from one moment to the next.",
+            "reviewerName": "Mignon McLaughlin"
+        },
+        {
+            "quote": "No man has a good enough memory to be a successful liar.",
+            "reviewerName": "Abraham Lincoln"
+        }
+    ]
+}
